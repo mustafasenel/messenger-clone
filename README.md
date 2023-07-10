@@ -12,7 +12,7 @@ yarn dev
 pnpm dev
 ```
 
-- [DEMO APP]([https://nextjs.org/learn](https://messenger-clone-senel.vercel.app/)) - visit .
+- [DEMO APP]([(https://messenger-clone-senel.vercel.app/)]) - visit .
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
